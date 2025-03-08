@@ -35,3 +35,6 @@ https://gist.github.com/GlitchicaL/a2df0b1e5c396941f8827797ff8ff845
 • Key Value Database: https://en.wikipedia.org/wiki/Key–value_database
 • Hardhat Testing: https://hardhat.org/guides/waffle-testing.html
 
+# TOKEN TRANSFERS
+• Solidity Events: https://docs.soliditylang.org/en/v0.8.13/contracts.html#events
+
