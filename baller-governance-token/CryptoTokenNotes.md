@@ -38,3 +38,5 @@ https://gist.github.com/GlitchicaL/a2df0b1e5c396941f8827797ff8ff845
 # TOKEN TRANSFERS
 • Solidity Events: https://docs.soliditylang.org/en/v0.8.13/contracts.html#events
 
+# TOKEN APPROVALS
+• EIP-20 Standard: https://eips.ethereum.org/EIPS/eip-20
