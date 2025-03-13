@@ -83,3 +83,5 @@ Create a new token with a unique name and symbol. Push it live to the test netwo
 # c. go to Alchemy.com, create a new App, copy and paste the API Key into the .env, save and close the .env
 # d. npx hardhat run scripts/1_deploy.js --network sepolia RETURNS: Token deployed to: 0x4fdCDd3092ad20E4f78881206DEC5Da3613983e9
 # e. Go to sepolia.etherscan.io and search for the contract: 0x4fdCDd3092ad20E4f78881206DEC5Da3613983e9
+# f. Add the token to MetaMask by copying the contract address into MetaMask
+# g. Send tokens to friends
